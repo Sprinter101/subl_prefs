@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"CSScomb",
+		"Emmet",
+		"Package Control",
+		"Sass",
+		"Soy"
+	],
+	"repositories":
+	[
+	]
+}

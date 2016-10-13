@@ -7,9 +7,13 @@
 	[
 		"AutoFileName",
 		"CSScomb",
+		"DiffView",
 		"Emmet",
+		"Git",
+		"GitGutter",
 		"Package Control",
 		"Sass",
+		"SideBarEnhancements",
 		"Soy"
 	],
 	"repositories":
